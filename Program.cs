@@ -15,7 +15,10 @@ class Program{
     {
         return z2 + 2.55f;
     }
-
+    static float MyMethod(float z3 , float z4)
+    {
+        return z3 + z4 +6.24f;
+    }
     static double MyMethod(double z3)
     {
         return z3 + 5.264d;
@@ -31,6 +34,7 @@ class Program{
         Console.WriteLine(z);
         MyMethod(1);
         Console.WriteLine(MyMethod(2.55f));
+        Console.WriteLine(MyMethod(3.55f , 5.24f);
         Console.WriteLine(MyMethod(3.54D));
         Console.WriteLine(MyMethod(1.25D,8.54D));
     }    
