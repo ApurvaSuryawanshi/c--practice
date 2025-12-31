@@ -1,0 +1,4 @@
+C:\Users\Apurva Suryawanshi\source\repos\ProgMain\Cust\obj\Debug\net10.0\Cust.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Apurva Suryawanshi\source\repos\ProgMain\Cust\obj\Debug\net10.0\Cust.AssemblyInfoInputs.cache
+C:\Users\Apurva Suryawanshi\source\repos\ProgMain\Cust\obj\Debug\net10.0\Cust.AssemblyInfo.cs
+C:\Users\Apurva Suryawanshi\source\repos\ProgMain\Cust\obj\Debug\net10.0\Cust.csproj.CoreCompileInputs.cache
