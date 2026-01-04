@@ -1,0 +1,11 @@
+C:\Users\Apurva Suryawanshi\source\repos\ProgMain\CT2\bin\Debug\net10.0\CT2.deps.json
+C:\Users\Apurva Suryawanshi\source\repos\ProgMain\CT2\bin\Debug\net10.0\CT2.dll
+C:\Users\Apurva Suryawanshi\source\repos\ProgMain\CT2\bin\Debug\net10.0\CT2.pdb
+C:\Users\Apurva Suryawanshi\source\repos\ProgMain\CT2\obj\Debug\net10.0\CT2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Apurva Suryawanshi\source\repos\ProgMain\CT2\obj\Debug\net10.0\CT2.AssemblyInfoInputs.cache
+C:\Users\Apurva Suryawanshi\source\repos\ProgMain\CT2\obj\Debug\net10.0\CT2.AssemblyInfo.cs
+C:\Users\Apurva Suryawanshi\source\repos\ProgMain\CT2\obj\Debug\net10.0\CT2.csproj.CoreCompileInputs.cache
+C:\Users\Apurva Suryawanshi\source\repos\ProgMain\CT2\obj\Debug\net10.0\CT2.dll
+C:\Users\Apurva Suryawanshi\source\repos\ProgMain\CT2\obj\Debug\net10.0\refint\CT2.dll
+C:\Users\Apurva Suryawanshi\source\repos\ProgMain\CT2\obj\Debug\net10.0\CT2.pdb
+C:\Users\Apurva Suryawanshi\source\repos\ProgMain\CT2\obj\Debug\net10.0\ref\CT2.dll
